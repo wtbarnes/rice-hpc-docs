@@ -1,3 +1,7 @@
 name: hpc-docs
 dependencies:
 - sphinx
+- pip:
+  - flake8
+  - doc8
+  - sphinx-copybutton
