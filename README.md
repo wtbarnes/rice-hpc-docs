@@ -1,4 +1,6 @@
-# rice-hpc-docs
+# Rice CRC Docs
+[![Documentation Status](https://readthedocs.org/projects/rice-hpc-docs/badge/?version=latest)](https://rice-hpc-docs.readthedocs.io/en/latest/?badge=latest)
+
 Documentation for the HPC Resources at Rice University
 
 ## Helpful Links
