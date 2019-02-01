@@ -1,0 +1,3 @@
+[submodule "rice-hpc-examples"]
+	path = rice-hpc-examples
+	url = https://github.com/wtbarnes/rice-hpc-examples.git

@@ -4,7 +4,7 @@ A Simple SLURM Example
 In this example, we'll create a simple SLURM script that prints "Hello World!"
 to STDOUT. First, create a script called ``hello-world.slurm``.
 
-.. literalinclude:: scripts/hello-world.slurm
+.. literalinclude:: /rice-hpc-examples/hello-world.slurm
    :language: bash
    :caption: hello-world.slurm
 
