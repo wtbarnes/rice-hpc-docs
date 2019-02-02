@@ -4,14 +4,14 @@ A Simple SLURM Example
 In this example, we'll create a simple SLURM script that prints "Hello World!"
 to STDOUT. First, create a script called ``hello-world.slurm``.
 
-.. literalinclude:: /rice-hpc-examples/hello-world.slurm
+.. literalinclude:: ../../rice-hpc-examples/hello-world.slurm
    :language: bash
    :caption: hello-world.slurm
 
-This defines what our task is (printing "Hello World!") and how the cluster should
-run it. Note that we've given our job a name (``hello-world``) and told it run in
-the ``commons`` queue with a maximum execution time of one minute. We won't worry
-about the other options for now.
+This defines what our task is (printing "Hello World!") and how the cluster
+should run it. Note that we've given our job a name (``hello-world``) and
+told it run in the ``commons`` queue with a maximum execution time of one
+minute. We won't worry about the other options for now.
 
 To submit this script to SLURM (the job scheduler),
 
