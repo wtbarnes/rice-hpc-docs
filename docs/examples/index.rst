@@ -20,3 +20,4 @@ at the command line.
    slurm_simple
    job_array
    python_anaconda
+   python_anaconda_install
