@@ -1,7 +1,6 @@
 # Rice CRC Docs
-[![Documentation Status](https://readthedocs.org/projects/rice-hpc-docs/badge/?version=latest)](https://rice-hpc-docs.readthedocs.io/en/latest/?badge=latest)
 
-Documentation for the HPC Resources at Rice University. The documentation is written in [reStructuredText]http://docutils.sourceforge.net/rst.html() format
+Documentation for the HPC Resources at Rice University. The documentation is written in [reStructuredText](http://docutils.sourceforge.net/rst.html) format
 and rendered to HTML using the [Sphinx](http://www.sphinx-doc.org) documentation engine.
 
 ## Install and Build
@@ -10,7 +9,7 @@ To install the needed dependencies using the [Anaconda Python distribution](http
 ```shell
 > conda env create -f environment.yml
 ```
-inside this repository. Alternatively, download all of the packages in <environment.yml> using `pip`.
+inside this repository. Alternatively, download all of the packages in [environment.yml](environment.yml) using `pip`.
 Then, build the HTML documentation using
 ```shell
 > make html
