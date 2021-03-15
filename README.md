@@ -1,3 +1,5 @@
+# This repository is out of date and no longer maintained. Please visit https://researchcomputing.rice.edu/ for documentation regarding documentation for CRC and HPC resources at Rice University.
+
 # Rice CRC Documentation
 
 Documentation for the CRC and HPC Resources at Rice University. The documentation is written in [reStructuredText](http://docutils.sourceforge.net/rst.html) format
